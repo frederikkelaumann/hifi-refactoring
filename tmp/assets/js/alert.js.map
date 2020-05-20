@@ -1,0 +1,1 @@
+{"version":3,"sources":["alert.js"],"names":["document","addEventListener","alert"],"mappings":";;AAAAA,QAAQ,CAACC,gBAAT,CAA0B,kBAA1B,EAA8C,YAAK;AAC/CC,EAAAA,KAAK,CAAC,iBAAD,CAAL;AACH,CAFD","sourcesContent":["document.addEventListener(\"DOMContentLoaded\", ()=> {\n    alert(\"hello everybody\");\n})"],"file":"alert.js"}
