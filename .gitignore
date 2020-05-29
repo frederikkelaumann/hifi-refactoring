@@ -1,0 +1,4 @@
+node_modules
+# Development files
+tmp
+dist
