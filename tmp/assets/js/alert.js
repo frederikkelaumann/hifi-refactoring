@@ -1,5 +1,3 @@
-"use strict";
-
-document.addEventListener("DOMContentLoaded", function () {// alert("Hello Everyone!")
-});
-//# sourceMappingURL=alert.js.map
+document.addEventListener("DOMContentLoaded", () => {
+    // alert("Hello Everyone!")
+})
